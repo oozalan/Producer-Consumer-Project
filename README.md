@@ -16,7 +16,6 @@ This program was made for the CSE3033 Operating Systems course. It uses the word
 * If a packager finds all buffers empty after all publishers exit the system, it prints the message: “Only i of j number of books could be packaged.” and leave the system.
 
 ## How to Run
-* It should be run in a Linux environment.
 * Example command: ./pcp-simulator.c -n 2 3 4 -b 5 -s 6 7
   * 2: Publisher type
   * 3: Publisher amount for each type
