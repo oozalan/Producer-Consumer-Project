@@ -1,5 +1,5 @@
 # PCP-Simulator
-This program was made for the CSE3033 Operating Systems course. It uses the word "publishers" instead of producers and "packagers" instead of consumers. It was developed in Linux.
+This program was made for the CSE3033 Operating Systems course. It uses the word "publishers" instead of producers and "packagers" instead of consumers. It was developed in Linux (Ubuntu).
 
 ## Program Details
 * Publisher threads publish books and packager threads package the books published.
