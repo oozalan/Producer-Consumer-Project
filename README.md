@@ -1,4 +1,4 @@
-# PCP-Simulator
+# Producer-Consumer-Project
 This program was made for the CSE3033 Operating Systems course. It uses the word "publishers" instead of producers and "packagers" instead of consumers. It was developed in Linux (Ubuntu).
 
 ## Program Details
